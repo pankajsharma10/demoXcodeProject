@@ -480,7 +480,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = DemoProjectUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.motzie.DemoProjectUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.motzie.motzieapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = DemoProject;
 			};
@@ -491,7 +491,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = DemoProjectUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.motzie.DemoProjectUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.motzie.motzieapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = DemoProject;
 			};
